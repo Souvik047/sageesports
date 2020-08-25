@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sageesports/static/css/main.b4389e82.chunk.css",
+    "main.js": "/sageesports/static/js/main.f4ffb35c.chunk.js",
+    "main.js.map": "/sageesports/static/js/main.f4ffb35c.chunk.js.map",
+    "runtime-main.js": "/sageesports/static/js/runtime-main.40f80096.js",
+    "runtime-main.js.map": "/sageesports/static/js/runtime-main.40f80096.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/sageesports/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.bee1c11b.chunk.js": "/sageesports/static/js/2.bee1c11b.chunk.js",
+    "static/js/2.bee1c11b.chunk.js.map": "/sageesports/static/js/2.bee1c11b.chunk.js.map",
+    "index.html": "/sageesports/index.html",
+    "precache-manifest.84188a5817cb13df351608b99f2b902a.js": "/sageesports/precache-manifest.84188a5817cb13df351608b99f2b902a.js",
+    "service-worker.js": "/sageesports/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/sageesports/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.b4389e82.chunk.css.map": "/sageesports/static/css/main.b4389e82.chunk.css.map",
+    "static/js/2.bee1c11b.chunk.js.LICENSE.txt": "/sageesports/static/js/2.bee1c11b.chunk.js.LICENSE.txt",
+    "static/media/Eelric.png": "/sageesports/static/media/Eelric.7e098466.png",
+    "static/media/File_001.png": "/sageesports/static/media/File_001.de999f4a.png",
+    "static/media/Main.jpg": "/sageesports/static/media/Main.81379ea8.jpg",
+    "static/media/Shahil.png": "/sageesports/static/media/Shahil.3ea30239.png",
+    "static/media/Souvik.png": "/sageesports/static/media/Souvik.e77ef12f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f80096.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.bee1c11b.chunk.js",
+    "static/css/main.b4389e82.chunk.css",
+    "static/js/main.f4ffb35c.chunk.js"
+  ]
+}
